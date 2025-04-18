@@ -11,7 +11,6 @@ Community-generated documentation for the many items that the official guide may
 
 | Guide Name / Link | Author | Last Updated* |
 |---|---|---|
-| [Calculating Driver Current Settings](./120decibell/calculating_driver_current.md) | 120decibell | Dec 27, 2021 |
 | [Chamber Temperature Exhaust Fan](./alchemyEngine/chamber_temperature_exhaust_fan.md) | alchemyEngine | Feb 23, 2021 |
 | [IGUS Chain Ordering Guide](./amonkeybutler/igus_chain_ordering_guide.md) | AMonkeyButler |  Feb 23, 2021 |
 | [Installing a Bed Heater with RTV](./fulg/installing_heater_with_rtv.md) | Fulg | Aug 17, 2021 |
